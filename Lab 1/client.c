@@ -55,4 +55,4 @@ printf("\n\n");
 close(s);
 }
 
-
+//DOWNLOAD MINGW
